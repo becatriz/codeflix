@@ -14,110 +14,104 @@
           "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "10 CURIOSIDADES sobre GATOS",
+          "url": "https://www.youtube.com/watch?v=TG_xiDjiIi4"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "5 MOTIVOS PARA TER UM GATO",
+          "url": "https://www.youtube.com/watch?v=-nGVKA_oQo0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "VETERINÁRIA RESPONDE: TUDO SOBRE GATOS",
+          "url": "https://www.youtube.com/watch?v=w5Gf0rTHFYQ"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "4 Coisas que você NÃO deve fazer com seus gatos",
+          "url": "https://www.youtube.com/watch?v=CVTG7bSzoh0"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Primeiros passos ao ADOTAR seu primeiro gato",
+          "url": "https://www.youtube.com/watch?v=zIDPMvriXRI"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Como Educar seus Gatos",
+          "url": "https://www.youtube.com/watch?v=OC3PvXYscNI"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Fazendo casa de gato com caixas de papelão",
+          "url": "https://www.youtube.com/watch?v=Iilk7UC5Ioo"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Curiosidades",
       "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
+     
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "10 coisas estranhas que os gatos fazem",
+          "url": "https://www.youtube.com/watch?v=7fzCVuBE52w"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "COMO ENTENDER MELHOR O SEU GATO!",
+          "url": "https://www.youtube.com/watch?v=O5zlRruXH4I"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "10 CURIOSIDADES INCRÍVEIS SOBRE OS GATOS",
+          "url": "https://www.youtube.com/watch?v=JbbmlRDjRSo"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "GATO SIAMES - SAIBA TUDO SOBRE ELE",
+          "url": "https://www.youtube.com/watch?v=zPoov-GwXdw"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Por que MEU GATO ME SEGUE em todos os lugares?",
+          "url": "https://www.youtube.com/watch?v=nwuSLIcgLgM"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Cuidados",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      
       "videos": [
         {
           "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "url": "https://www.youtube.com/watch?v=3Rf-FXan7Rc"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "COMO CUIDAR de um GATO FILHOTE",
+          "url": "https://www.youtube.com/watch?v=oTNna4f3w9U"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "COMO DAR BANHO EM GATOS",
+          "url": "https://www.youtube.com/watch?v=r7XNa_Rt7C0"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "O que posso dar pro meu gato além de ração?",
+          "url": "https://www.youtube.com/watch?v=LdGw-Bi_310"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Vídeos Fofos",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "OS ANIMAIS MAIS FOFOS E ENGRAÇADOS 2018",
+          "url": "https://www.youtube.com/watch?v=cCkw5V9LCyY"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "TENTE NÃO RIR OS VÍDEOS DE GATOS MAIS ENGRAÇADOS",
+          "url": "https://www.youtube.com/watch?v=eMEZTl-7Vvw"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "TENTE NÃO ACHAR FOFO",
+          "url": "https://www.youtube.com/watch?v=ggykbkz7C6U"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Os gatos mais adoráveis ​​do mundo",
+          "url": "https://www.youtube.com/watch?v=b8iTTiU7Ot0&t=20s"
         }
       ]
     },

@@ -10,9 +10,9 @@ function Menu() {
       <a href="/">
         <img className="Logo" src={Logo} alt="Logo CodeFlix" />
       </a>
-      <Button as="a" className="ButtonLink" href="/">
+      {/* <Button as="a" className="ButtonLink" href="/">
         Novo vídeo
-        </Button>
+        </Button> */}
     </nav>
   );
 }

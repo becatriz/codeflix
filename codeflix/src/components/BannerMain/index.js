@@ -1,5 +1,6 @@
 import React from 'react';
 import VideoIframeResponsive from './components/VideoIframeResponsive';
+import App from '../../components/AutomaticBanner/App'
 import { BannerMainContainer, ContentAreaContainer, WatchButton } from './styles';
 
 function getYouTubeId(youtubeURL) {
@@ -19,8 +20,9 @@ export default function BannerMain({
   const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
 
   return (
-    <BannerMainContainer backgroundImage={bgUrl}>
-      <ContentAreaContainer>
+    <BannerMainContainer >
+      <App></App>
+      {/* <ContentAreaContainer>
         <ContentAreaContainer.Item>
           <ContentAreaContainer.Title>
             {videoTitle}
@@ -39,7 +41,7 @@ export default function BannerMain({
             Assistir
           </WatchButton>
         </ContentAreaContainer.Item>
-      </ContentAreaContainer>
+      </ContentAreaContainer> */}
     </BannerMainContainer>
   );
 }
